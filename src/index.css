@@ -71,3 +71,12 @@ footer p {
   margin: 5px;
   font-weight: bold;
 }
+
+/* Nav */
+
+nav {
+  text-align: center;
+  padding: 15px;
+  border-bottom: solid #2b3566 2px;
+  margin-bottom: 50px;
+}
